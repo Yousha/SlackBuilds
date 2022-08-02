@@ -1,0 +1,12 @@
+             |-----handy-ruler------------------------------------------------------|
+c++-gtk-utils: c++-gtk-utils (C++ lightweight library for GTK+)
+c++-gtk-utils:
+c++-gtk-utils: It is a lightweight library containing a number of classes and
+c++-gtk-utils: functions to ease the task of programming GTK+ programs with C++ in
+c++-gtk-utils: POSIX (unix-like) environments, including classes to make GTK+
+c++-gtk-utils: exception safe and for writing threaded programs.
+c++-gtk-utils:
+c++-gtk-utils: Homepage: http://c++-gtk-utils.sourceforge.net
+c++-gtk-utils:
+c++-gtk-utils:
+c++-gtk-utils:
